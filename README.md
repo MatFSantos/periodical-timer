@@ -38,3 +38,4 @@ Siga os passos a seguir para poder executar seu firmware na placa *BitDogLab*:
 
 - **3°:** Está pronto, observe os leds mudando periodicamente, e caso queria, abra o monitor serial e veja a mensagem a cada 1 segundo sendo apresentada.
 
+> Observação: na execução do firmware na placa de desenvolvimento, o LED amarelo foi trocado pela cor azul, afim de usar o LED RGB da **BitDogLab**
